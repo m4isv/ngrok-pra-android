@@ -3,6 +3,6 @@ Ngrok pra android
 
 cd nome da pasta 
 
-chmod nome do arquivo
+chmod a+x nome do arquivo
 
-./nome do arquivo http 80
+./nome do arquivo [protocolo] [nome da porta]
